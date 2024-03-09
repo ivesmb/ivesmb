@@ -6,6 +6,6 @@
 
 🗺️ I've worked at the institution as a monitor for the subjects of programming techniques and algorithms. 
 
-🛰️ My work is focused on developing geospatial and engineering solutions, using python, javascript and R as the main programming languages, along with remote sensing, aerophotogrammetry and cartography techniques. 
+🛰️ My work is focused on developing geospatial and engineering solutions, using Python, JavaScript and #R as the main programming languages, along with remote sensing, aerophotogrammetry and cartography techniques. 
 
 🖥️ I also have an affinity with web page development (HTML, CSS and JavaScript).
