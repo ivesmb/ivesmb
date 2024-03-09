@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+#I'm a cartographic engineering student at the Federal Rural University of Amazonia (UFRA). I've worked at the institution as a monitor for the subjects of programming techniques and algorithms. My work is focused on developing geospatial and engineering solutions, using python, javascript and R as my main programming languages. I also have an affinity with web page development (HTML, CSS and JavaScript).
+
+Translated with DeepL.com (free version)
 <!--
 **ivesmb/ivesmb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
