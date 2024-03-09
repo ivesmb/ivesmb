@@ -1,19 +1,11 @@
-### Hi there 👋
+**Hi there** 👋
 
-#I'm a cartographic engineering student at the Federal Rural University of Amazonia (UFRA). I've worked at the institution as a monitor for the subjects of programming techniques and algorithms. My work is focused on developing geospatial and engineering solutions, using python, javascript and R as my main programming languages. I also have an affinity with web page development (HTML, CSS and JavaScript).
+📍 My name is Ives Brandão and I'm from Belém, Pará, Brazil
 
-Translated with DeepL.com (free version)
-<!--
-**ivesmb/ivesmb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌎 I'm a cartographic engineering student at the Federal Rural University of Amazonia (UFRA). 
 
-Here are some ideas to get you started:
+🗺️ I've worked at the institution as a monitor for the subjects of programming techniques and algorithms. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛰️ My work is focused on developing geospatial and engineering solutions, using python, javascript and R as the main programming languages, along with remote sensing, aerophotogrammetry and cartography techniques. 
+
+🖥️ I also have an affinity with web page development (HTML, CSS and JavaScript).
